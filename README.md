@@ -1,4 +1,5 @@
 # Predictive Maintenance for Industrial Equipment
+ LINK : https://fayyazkhan0825-coder-predictive-maintenance-dashboardapp-0zatv5.streamlit.app/
 
 End-to-end ML pipeline that predicts equipment failure before it happens,
 using time-series sensor data (temperature, vibration, pressure, etc.).
